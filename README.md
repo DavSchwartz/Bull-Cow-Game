@@ -7,3 +7,5 @@ Fun word game, try to guess the word!
 
 cows are the right letter in the right spot
 bulls are the right letter in the wrong spot
+
+![](bullcow.png)
